@@ -1,8 +1,6 @@
 package Lesson1
 
 fun main() {
-
     val numberOfOrders: Int = 75
-    val text: String = "РЎРїР°СЃРёР±Рѕ Р·Р° Р·Р°РєР°Р·"
-
+    val text: String = "Спасибо за заказ"
 }
