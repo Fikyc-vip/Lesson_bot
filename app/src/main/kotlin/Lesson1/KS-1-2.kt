@@ -3,6 +3,7 @@ package Lesson1
 import android.util.Printer
 import kotlin.math.truncate
 
+
 fun main() {
     val numberOfOrders: Int = 75
     val text: String = "Спасибо за заказ"
@@ -12,5 +13,4 @@ fun main() {
     println("Число работников $numberOfEmployees")
     numberOfEmployees --
     println("Новое число работников $numberOfEmployees")
-
 }
