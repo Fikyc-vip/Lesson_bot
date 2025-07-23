@@ -13,5 +13,4 @@ fun main() {
     numberOfEmployees --
     println("Новое число работников $numberOfEmployees")
 
-
 }
