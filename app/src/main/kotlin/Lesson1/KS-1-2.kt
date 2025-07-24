@@ -1,7 +1,6 @@
 package Lesson1
 
-import android.util.Printer
-import kotlin.math.truncate
+
 
 
 fun main() {
